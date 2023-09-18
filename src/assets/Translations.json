@@ -1,0 +1,65 @@
+{
+  "en-US": {
+    "login": {
+      "title": "Hello to Movie App",
+      "description": "Movies app created for Webbylab",
+      "email": "Email",
+      "password": "Password",
+      "login": "Login",
+      "registerAccount": "Don't have an Account? Register now!"
+    },
+    "signUp": {
+      "title": "Wellcome to Movie App",
+      "description": "Let's SignUp and start our journey",
+      "email": "Email",
+      "name": "Name",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "register": "Register",
+      "hevAccount": "Already have an Account? Login now!"
+    },
+    "dashboard": {
+      "header": "Dashboard",
+      "welcome": "Welcome to Movie App",
+      "description": "Now you can see, delete, add and import information about films.",
+      "importFilms": "You can import data about films from file.",
+      "or": "or",
+      "addFilm": "Add a new film to list manualy",
+      "goToMovies": "Go to Movies Screen"
+    },
+    "createMovie": {
+      "header": "Create Movie",
+      "title": "Title",
+      "year": "Year",
+      "listActors": "Add list of actors",
+      "format": "Choose Format",
+      "actor": "Actor",
+      "create": "Create"
+    },
+    "profile": {
+      "header": "Profile",
+      "welcome": "Hello dear {{ name }} in our App",
+      "logOut": "LogOut"
+    },
+    "movie": {
+      "header": "Movie",
+      "search": "Search movie by name or actor ...",
+      "noData": "No Data Exist",
+      "viewMore": "View more information",
+      "format": "Fiml format - {{ format }}"
+    },
+    "movieDetails": {
+      "header": "Movie Details",
+      "list": "List of Actors"
+    },
+    "errors": {
+      "ruleNumber": "Please enter only numbers",
+      "ruleIncorectEmail": "Please enter correct email",
+      "ruleIncorectMinYear": "Please enter year more than 1895",
+      "ruleIncorectMaxYear": "Please enter year less than 2023",
+      "ruleCannotBeEmpty": "This field can not be empty",
+      "ruleMin8Characters": "Min 8 characters long",
+      "passwordMatches": "Please make sure your passwords match"
+    }
+  }
+}
